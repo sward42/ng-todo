@@ -3,10 +3,10 @@
   "description": "",
   "main": "index.js",
   "authors": [
-    "Zoe Ames <zoeames@gmail.com>"
+    "Sarah Ward <sarahward42@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/zoeames/angular-todo",
+  "homepage": "https://github.com/nss-evening-cohort-04/ng-contacts-sward42",
   "ignore": [
     "**/.*",
     "node_modules",
